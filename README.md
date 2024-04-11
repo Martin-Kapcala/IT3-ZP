@@ -1,4 +1,4 @@
-Zadání závěrečné práce: Webová aplikace pro rezervaci kinových sedadel
+Zadání závěrečné práce: Webová aplikace pro rezervaci sedadel v kině.
 
 Cíl práce
 
